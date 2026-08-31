@@ -1,4 +1,4 @@
-# Фищге
+# About
 > **Engineering Autonomy. Uncompromising Privacy. Modular Ecosystem.**
 
 `B1ack` is an independent community of volunteer developers. We build custom solutions and maintain existing open-source software, unifying standalone tools into an ecosystem focused on data protection and user sovereignty.
