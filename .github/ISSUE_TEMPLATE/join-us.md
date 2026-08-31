@@ -12,12 +12,8 @@ assignees: ''
 
 ---
 
-<div align="center">**●**</div>
-
-**Full name**
+● **Full name**
 > 
-
-<div align="center">**●**</div>
 
 ● **Usernames used**
 > 
