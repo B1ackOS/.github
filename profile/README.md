@@ -1,7 +1,7 @@
 # About
 > **Engineering Autonomy. Uncompromising Privacy. Modular Ecosystem.**
 
-`B1ack` is an independent community of volunteer developers. We build custom solutions and maintain existing open-source software, unifying standalone tools into an ecosystem focused on data protection and user sovereignty.
+`B1ack` is an independent, international community of volunteer developers. We build custom solutions and maintain existing open-source software, unifying standalone tools into an ecosystem focused on data protection and user sovereignty.
 
 ---
 
@@ -16,6 +16,7 @@
 The organization operates on principles of internal autonomy and individual responsibility:
 * **Freedom of Focus:** Members independently decide which projects to build, when to ship updates, and how to expand features, provided user privacy remains strictly uncompromised.
 * **Priority Alignment:** Leadership may coordinate and request the reallocation of team efforts toward mission-critical ecosystem initiatives when necessary.
+* **Discretionary Partnership Revocation:** Leadership retains the right to end a partnership with any volunteer contributor at its own discretion, without obligation to disclose or justify the reasoning behind such a decision. As `b1ack.net` has no centralized management hierarchy or standing executive authority, this discretion isn't concentrated in any single office to be appealed to or held accountable — much like other decentralized, volunteer-run projects, there's simply no fixed governing body to lodge a complaint against. The community's ongoing trust in its contributors remains the real check on this power.
 * **AI-Assisted Contributions:** The use of artificial intelligence and machine-assisted tooling is permitted. However, the contributor who utilizes AI bears 100% personal accountability for the code. The author is solely responsible for code quality, architectural integrity, security verification, and license compliance.
 * **Immutable Attribution:** Contributors retain credit for their work; contribution histories and commit logs are preserved and never retroactively altered.
 * **Archival Policy:** Projects left without active maintainers are archived and removed from official `b1ack.net` distribution channels unless another member takes over maintenance.
