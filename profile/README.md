@@ -1,57 +1,61 @@
 # About
-> **Engineering Autonomy. Uncompromising Privacy. Modular Ecosystem.**
 
-`B1ack` is an independent, international community of volunteer developers. We build custom solutions and maintain existing open-source software, unifying standalone tools into an ecosystem focused on data protection and user sovereignty.
-
----
-
-## 👁️ Mission & Core Principles
-* **Privacy by Default:** We stand firmly against surveillance, hidden telemetry, metadata harvesting, and artificial user restrictions. Our goal is the widespread adoption of privacy-first technologies.
-* **Simplicity Without Compromise:** We streamline the distribution and delivery of secure software without gutting its capabilities. Complex problems require specialized tooling-we preserve full functional depth.
-* **Transparency:** All source code is open for independent community audits and user verification.
+`B1ack` is an independent, decentralized collective of volunteer developers building and maintaining privacy-focused, modular open-source software. We integrate standalone utilities into a cohesive ecosystem designed for self-sovereignty and minimal attack surface.
 
 ---
 
-## ⚙️ Governance & Autonomy
-The organization operates on principles of internal autonomy and individual responsibility:
-* **Freedom of Focus:** Members independently decide which projects to build, when to ship updates, and how to expand features, provided user privacy remains strictly uncompromised.
-* **Priority Alignment:** Leadership may coordinate and request the reallocation of team efforts toward mission-critical ecosystem initiatives when necessary.
-* **Discretionary Partnership Revocation:** Leadership retains the right to end a partnership with any volunteer contributor at its own discretion, without obligation to disclose or justify the reasoning behind such a decision. As `b1ack.net` has no centralized management hierarchy or standing executive authority, this discretion isn't concentrated in any single office to be appealed to or held accountable - much like other decentralized, volunteer-run projects, there's simply no fixed governing body to lodge a complaint against. The community's ongoing trust in its contributors remains the real check on this power.
-* **AI-Assisted Contributions:** The use of artificial intelligence and machine-assisted tooling is permitted. However, the contributor who utilizes AI bears 100% personal accountability for the code. The author is solely responsible for code quality, architectural integrity, security verification, and license compliance.
-* **Immutable Attribution:** Contributors retain credit for their work; contribution histories and commit logs are preserved and never retroactively altered.
-* **Archival Policy:** Projects left without active maintainers are archived and removed from official `b1ack.net` distribution channels unless another member takes over maintenance.
+## Core Principles
+
+* **Default Privacy:** Zero telemetry, zero metadata harvesting, and no artificial functional throttling.
+* **Full-Featured Simplicity:** We streamline deployment and maintenance without stripping out advanced capabilities.
+* **Radical Transparency:** 100% of our code is open for independent audits and build verification.
 
 ---
 
-## 🕊️ Neutrality & Personal Autonomy
-* **Life Outside the Organization:** `b1ack.net` does not concern itself with, monitor, or take a position on a member's actions, affiliations, or conduct in their personal life outside the organization's activities and platforms.
-* **Digital Calm:** Beyond software development, the organization is oriented toward fostering stability and calm within the digital space at large.
-* **Apolitical & Gender-Neutral Internally:** Internally, `b1ack.net` remains strictly apolitical and gender-neutral - political views and gender are not criteria for participation, standing, or treatment within the community.
+## Governance & Contributor Workflow
+
+The collective operates on autonomous contribution and personal accountability:
+
+* **Scope of Work:** Contributors choose what to build, maintain, and ship, provided changes strictly adhere to our privacy standards.
+* **Priority Coordination:** Core maintainers may request temporary reallocation of efforts to patch critical infrastructure or address ecosystem-wide security issues.
+* **AI Tooling Policy:** Machine-generated code is permitted, but the author assumes full liability. You are strictly responsible for architecture, auditability, licensing compliance, and security regression testing.
+* **Attribution:** Commit histories and author credits are immutable and will not be rewritten.
+* **Project Archival:** Repositories without an active maintainer will be archived and removed from default release pipelines until claimed by an active contributor.
 
 ---
 
-## 📄 Licensing & Branding
-* **Default License:** All organization repositories are licensed under the **GNU General Public License v3 (GPLv3)** unless an alternative OSI-compliant open-source license is explicitly stated.
-* **Brand Protection & Forks:** While the right to modify open-source code is absolute, the **`b1ack.net` name, identity, and branding remain protected**. Any third-party forks-including independent continuations of archived projects-must undergo a complete **rebranding** and cannot use the `b1ack.net` name or trademarks in their distribution.
+## Exclusion, Appeals & Anti-Sabotage
+
+* **Zero Tolerance for Sabotage:** Malicious code injection, deliberate infrastructural sabotage, and targeted harassment of members result in immediate revocation of access and account termination.
+* **Revocation of Partnership:** Maintainers reserve the right to remove non-cooperative or disruptive contributors to safeguard project stability.
+* **The 7-Member Appeal Threshold:** If an excluded contributor receives formal, public backing from at least **7 active project members**, the removal is not final. The case is escalated to an independent core owner for secondary review and final arbitration.
 
 ---
 
-## ⚖️ Liability & Reliability
-* **Engineering Diligence:** We commit our best efforts to ensure stability, fault tolerance, and security across all published modules.
-* **"AS IS" Disclaimer:** All software is provided "as is", without warranty of any kind. The organization is not liable for system failures, data loss, or hardware/software malfunctions. End-users bear full responsibility for deploying, running, and managing their data with our software.
+## Neutrality & Boundary Policy
+
+* **Scope of Interaction:** `b1ack.net` strictly evaluates code, technical contributions, and project conduct. We do not monitor, moderate, or take positions on members' personal lives, political affiliations, or external activities.
+* **Internal Operations:** The community is strictly technical, apolitical, and neutral. Standing within the project depends solely on technical merit and reliability.
 
 ---
 
-## 🛡️ Security & Anti-Sabotage Policy
-* **Zero Tolerance:** Any acts of sabotage, malicious disruption, or targeted hostility toward the organization or **any individual member** result in immediate and permanent exclusion.
-* **Account Revocation:** If a bad actor holds an account within our hosted ecosystem infrastructure, access is terminated and associated files/data are deleted within the limits of the server-side architecture (strictly without deploying spyware, telemetry, or client-side backdoors).
-* **Permanent Ban:** Individuals banned for sabotage permanently forfeit the right to rejoin, contribute, or represent `b1ack.net`.
+## Licensing & Trademarks
+
+* **Source Code:** Repositories default to **GNU General Public License v3 (GPLv3)** unless explicitly marked under another OSI-compliant license.
+* **Forking & Branding:** You are free to fork and modify the code under the terms of the GPLv3. However, all official `b1ack.net` branding, names, and visual assets must be stripped from downstream distributions.
 
 ---
 
-## 📬 Contact
-* **Website:** [b1ack.net](https://b1ack.net)
+## Disclaimer of Liability
+
+All software is distributed under the GPLv3 "AS IS" disclaimer, without warranties of any kind. Maintainers and contributors assume no liability for data loss, service interruption, or operational failures resulting from running this software.
+
+---
+
+## Communication & Links
+
+* **Web:** [b1ack.net](https://b1ack.net)
 * **Email:** [support@b1ack.net](mailto:support@b1ack.net)
-* **Social:** [Discord](https://discord.gg/NxZEbtEhAp), [Telegram](https://t.me/B1ackOS)
+* **Chat:** [Discord](https://discord.gg/NxZEbtEhAp) | [Telegram](https://t.me/B1ackOS)
 
   [Join Us](https://github.com/b1-ack/.github/issues/new?template=join-us.md) | [Abuse](https://github.com/b1-ack/.github/issues/new?template=abuse.md)
