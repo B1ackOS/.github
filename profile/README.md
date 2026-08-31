@@ -54,4 +54,4 @@ The organization operates on principles of internal autonomy and individual resp
 * **Email:** [support@b1ack.net](mailto:support@b1ack.net)
 * **Social:** [Discord](https://discord.gg/NxZEbtEhAp), [Telegram](https://t.me/B1ackOS)
 
-[Join Us](https://github.com/b1-ack/.github/issues/new?template=join-us.md)  [Abuse](https://github.com/b1-ack/.github/issues/new?template=abuse.md)
+  [Join Us](https://github.com/b1-ack/.github/issues/new?template=join-us.md) | [Abuse](https://github.com/b1-ack/.github/issues/new?template=abuse.md)
