@@ -1,3 +1,5 @@
+[**EN**] [[RU](https://github.com/b1-ack/.github/blob/main/profile/README_ru.md)]
+
 # About
 
 `B1ack` is an independent, decentralized collective of volunteer developers building and maintaining privacy-focused, modular open-source software. We integrate standalone utilities into a cohesive ecosystem designed for self-sovereignty and minimal attack surface.
